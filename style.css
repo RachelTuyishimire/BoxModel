@@ -1,0 +1,15 @@
+.body{
+    background-color:grey;
+    color:whitesmoke;
+    border: 5px dotted black;
+}
+.body h1{
+    margin: 10px;
+    padding: 5px 50px 5px 50px;
+    text-align: center;
+    border: 3px solid white;
+    background-color: black;
+
+
+    
+}
